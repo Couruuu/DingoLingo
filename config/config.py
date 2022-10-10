@@ -1,8 +1,8 @@
-BOT_TOKEN: str = ""
+BOT_TOKEN: str = "MTAyOTEyNzQ5MTQwNDY5NzcyMA.GzGq1j.Eixbi6dQvqz_svOOnhhS_pioFfEOCOaLiKiye8"
 SPOTIFY_ID: str = ""
 SPOTIFY_SECRET: str = ""
 
-BOT_PREFIX = "$"
+BOT_PREFIX = "j!"
 
 EMBED_COLOR = 0x4dd4d0  #replace after'0x' with desired hex code ex. '#ff0188' >> '0xff0188'
 
